@@ -12,7 +12,7 @@ import {
 } from "@mui/material";
 import React, { useEffect, useRef, useState } from "react";
 import lotuslogo from "../logoInvoice.png";
-import "../Styles/PrintInvoice.css";
+import "./Styles/PrintInvoice.css";
 import { useNavigate, useParams } from "react-router-dom";
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
