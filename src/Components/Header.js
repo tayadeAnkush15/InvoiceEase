@@ -1,7 +1,7 @@
 import React from "react";
 import profile from "../my-channel.jpeg";
 import logo1 from "../Lotus_logo1.jpg";
-import "../Styles/Header.css";
+import "./Styles/Header.css";
 import { Link } from "react-router-dom";
 import InvoiceListing from "./InvoiceListing";
 
